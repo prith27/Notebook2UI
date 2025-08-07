@@ -467,6 +467,6 @@ if uploaded_file:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; margin-top: 2rem;">
-    <p>Built with ❤️ using Streamlit and OpenAI GPT-4</p>
+    <p>Built with ❤️ using Streamlit</p>
 </div>
 """, unsafe_allow_html=True)
